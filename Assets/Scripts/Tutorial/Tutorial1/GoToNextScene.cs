@@ -1,0 +1,25 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class GoToNextScene : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void OnTriggerEnter(Collider other)
+    {
+
+        if (other.CompareTag("Player"))
+        {
+            // 씬 넘어가기 사운드 재생
+            SoundManager.Instance.Play(SoundKey.SceneTransition);
+
+            SceneTransitionManager.Instance.LoadScene("TutorialScene2");
+        }
+    }
+}

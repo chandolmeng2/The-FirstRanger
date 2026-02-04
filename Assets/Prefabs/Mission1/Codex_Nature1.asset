@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c75e822317b1a7b45adfe6f8095d0772, type: 3}
+  m_Name: Codex_Nature1
+  m_EditorClassIdentifier: 
+  itemName: "\uD64D\uC9C0\uBC84\uC12F"
+  description: "\uD64D\uC9C0\uBC84\uC12F\uC740 \uC5EC\uB984\uACFC \uAC00\uC744\uCCA0,
+    \uCE68\uC5FD\uC218\uB9BC\uC758 \uC774\uB07C \uB080 \uC2B5\uD55C \uD1A0\uC591\uC5D0\uC11C
+    \uC8FC\uB85C \uC790\uB77C\uB294 \uBD89\uC740\uC0C9 \uAC13\uC758 \uBC84\uC12F\uC774\uB2E4.\n\uAC13\uC740
+    \uC9C0\uB984 3~7cm \uC815\uB3C4\uC774\uBA70 \uC120\uBA85\uD55C \uBD89\uC740\uBE5B\uC744
+    \uB760\uACE0, \uD45C\uBA74\uC774 \uC57D\uAC04 \uB048\uC801\uAC70\uB9AC\uAE30\uB3C4
+    \uD55C\uB2E4. \uC904\uAE30\uB294 \uD770\uC0C9\uC774\uBA70 \uACE7\uACE0 \uB2E8\uB2E8\uD55C
+    \uD615\uD0DC\uB97C \uBCF4\uC778\uB2E4.\n\uC774 \uBC84\uC12F\uC740 \uC0C9\uC0C1\uC774
+    \uD654\uB824\uD558\uC9C0\uB9CC \uBA39\uC73C\uBA74 \uAD6C\uD1A0\uB098 \uC124\uC0AC
+    \uB4F1\uC758 \uC99D\uC0C1\uC744 \uC720\uBC1C\uD558\uB294 \uB3C5\uBC84\uC12F\uC73C\uB85C
+    \uC54C\uB824\uC838 \uC788\uB2E4.\n\uB530\uB77C\uC11C \uC2DD\uC6A9\uD558\uC9C0
+    \uB9D0\uACE0 \uAD00\uCC30\uC6A9\uC73C\uB85C\uB9CC \uAC10\uC0C1\uD574\uC57C \uD558\uB294
+    \uBC84\uC12F\uC774\uB2E4.\n\uD55C\uAD6D\uBFD0\uB9CC \uC544\uB2C8\uB77C \uBD81\uBC18\uAD6C\uC758
+    \uCE68\uC5FD\uC218\uB9BC\uC5D0\uC11C \uB110\uB9AC \uBC1C\uACAC\uB41C\uB2E4."
+  icon: {fileID: 21300000, guid: c7b6f55df7502184c8463e9bb1ae116f, type: 3}
+  itemType: 0
+  trashPuzzleIndex: 0
+  puzzleIndex: 0
+  codexCategory: 0
+  rarity: 0
